@@ -1,2 +1,2 @@
 # Tutorials-PDF
-Create tutorial pdfs from http://www.tutorialspoint.com/
+Download tutorial pdfs from http://www.tutorialspoint.com/
